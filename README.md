@@ -77,7 +77,7 @@ This allows the administrative account to perform user and group management task
 
 I reviewed the tenant's authentication method policies to understand which authentication methods were currently enabled or disabled.
 
-The environment included authentication methods such as:
+The authentication methods policy included several configured methods with varying enabled/disabled states, including:
 
 - Passkey (FIDO2)
 - Microsoft Authenticator
